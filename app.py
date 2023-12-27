@@ -101,8 +101,7 @@ class Amazon:
             print(f"Varrendo a página {c}")
             
             c += 1
-            # if c >= int(paginas):
-            if c == 5:
+            if c >= int(numero):
                 break
         return lista
         
