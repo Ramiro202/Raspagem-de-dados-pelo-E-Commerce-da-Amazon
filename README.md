@@ -36,6 +36,17 @@ pip3 install -r requirements.txt
 ```bash
 pip3 install -r requirements.txt
 ```
+
+## depois de tudo instalado basta digitar.
+```bash
+python app.py
+```
+* para outros sistemas operacionais basta acrescentar o __3__  
+Deixando assim.
+```bash
+python3 app.py
+```
+
 ## 
 ## Minhas Rede Sociais
 
