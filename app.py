@@ -107,6 +107,6 @@ class Amazon:
         return lista
         
 numero = 0
-system("clear")
+system("clear || cls")
 amazon = Amazon()
 amazon.iniciar()
